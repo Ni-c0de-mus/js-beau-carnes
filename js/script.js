@@ -31,3 +31,6 @@ titleCaseOver = 9000;
 console.log(properCamelCase);
 
 
+var sum = 10 + 10;
+
+console.log(sum);
